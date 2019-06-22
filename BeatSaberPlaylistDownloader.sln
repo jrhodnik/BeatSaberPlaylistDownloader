@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatSaberPlaylistDownloader", "BeatSaberPlaylistDownloader\BeatSaberPlaylistDownloader.csproj", "{A47004FD-3583-47BD-B694-3C1BDCA2D9D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47004FD-3583-47BD-B694-3C1BDCA2D9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47004FD-3583-47BD-B694-3C1BDCA2D9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47004FD-3583-47BD-B694-3C1BDCA2D9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47004FD-3583-47BD-B694-3C1BDCA2D9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADDA8AC4-0765-49E4-9469-2F862B393915}
+	EndGlobalSection
+EndGlobal
